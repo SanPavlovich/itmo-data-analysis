@@ -835,7 +835,7 @@ def quick_demo():
     
     print("\nДемонстрация завершена!")
 
-    return pipelines
+    return X, pipelines
 
 if __name__ == "__main__":
     print("Выберите вариант запуска:")
